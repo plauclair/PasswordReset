@@ -9,5 +9,4 @@
 $content = $modules->get('PasswordReset')->controller();
 // or echo it based on your needs echo $modules->get('Pass...
 
-// ... and load the scripts
-// echo $modules->get('PasswordReset')->getScripts();
+// ... and load the scripts using $modules->get('PasswordReset')->getScripts();
