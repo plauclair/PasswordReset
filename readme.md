@@ -22,26 +22,21 @@ then loads the scripts  ```$modules->get('PasswordReset')->getScripts()```
 Password Reset has different configuration options that you can access through Modules > Site > PasswordReset:
 
 **Validation field**
-
 The field to match user registration against. It is important that you make sure these fields remain unique.
 
 **Instructions**
-
 Optional text displayed under the reset form validation field on the first page of the reset process. This
 field has *language support* and, when the Language Support module is loaded, will display one instruction field
 for each language.
 
 
 **Email address to send link from**
-
 The email address used to send reset links.
 
 **Name to use for the email address**
-
 Name used to send reset links.
 
 **Required password length**
-
 Minimum recommended length: 8.
 
 
@@ -68,9 +63,10 @@ Make sure the controller is echo'ed somewhere. It will output the forms and any 
 - Housekeeping script to delete expired requests
 - Uninstall script
 - Probably some markup tweaking
+- Ajaxify (eventually)
 
 ## Versions
 
-**0.0.1 Current beta**
+**0.0.2 Current beta**
 First working release
 
