@@ -64,6 +64,7 @@ Make sure the controller is echo'ed somewhere. It will output the forms and any 
 - Uninstall script
 - Probably some markup tweaking
 - Ajaxify (eventually)
+- Progress bar?
 
 ## Versions
 
