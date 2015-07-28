@@ -48,7 +48,7 @@ Language Support module is loaded, will display one instruction field for each l
 ## Public methods
 
 **getScripts()**
-Returns the necessary JavaScript file url for use in ```<scripts>``` tags.
+Returns the necessary JavaScript file url for use in ```<script>``` tags.
 
 The scripts don't have any dependencies and **must** be loaded just before the
 closing body tag to make sure it works properly.
