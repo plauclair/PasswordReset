@@ -18,6 +18,7 @@ class PasswordResetConfig extends ModuleConfig
 			array(
 				'name' => 'fieldname',
 				'label' => __('Validation field'),
+				'required' => true,
 				'type' => 'Select',
 				'options' => $userFieldsArray,
 				'description' => __('The field to match user registration against.')
@@ -50,6 +51,7 @@ class PasswordResetConfig extends ModuleConfig
 			array(
 				'name' => 'emailAddress',
 				'label' => __('Email address to send reset link from'),
+				'required' => true,
 				'type' => 'Text',
 				'value' => 'passwords-service@example.com'
 			),
@@ -62,6 +64,7 @@ class PasswordResetConfig extends ModuleConfig
 			array(
 				'name' => 'passwordLength',
 				'label' => __('Required password length'),
+				'required' => true,
 				'type' => 'Integer',
 				'value' => 8
 			)
