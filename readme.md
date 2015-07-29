@@ -68,11 +68,15 @@ Make sure the controller is echo'ed somewhere. It will output the forms and any 
 
 ## Versions
 
-**0.0.3 Current beta**
+**0.0.4 Current beta**
+
+[See changes](https://github.com/plauclair/PasswordReset/commit/fa9cdcbea7425c8efc8eb316573df89870f2c802)
+
+**0.0.3**
 
 [See changes](https://github.com/plauclair/PasswordReset/commit/95a61b91ccca276b6c9eef1b3884af0f98250c58)
 
-**0.0.2 Current beta**
+**0.0.2**
 
  First working release
 
