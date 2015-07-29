@@ -67,7 +67,11 @@ Make sure the controller is echo'ed somewhere. It will output the forms and any 
 
 ## Versions
 
-**0.0.5 Current beta**
+**0.0.6 Current beta**
+
+- Fixed missing translation string.
+
+**0.0.5**
 
 [See changes](https://github.com/plauclair/PasswordReset/commit/cd1b8041906eaf31848e55a0973af6b2362a93ac)
 
