@@ -60,7 +60,6 @@ Make sure the controller is echo'ed somewhere. It will output the forms and any 
 
 ## Todo
 
-- Housekeeping script to delete expired requests
 - Uninstall script
 - Probably some markup tweaking
 - Ajaxify (eventually)
@@ -68,7 +67,11 @@ Make sure the controller is echo'ed somewhere. It will output the forms and any 
 
 ## Versions
 
-**0.0.4 Current beta**
+**0.0.5 Current beta**
+
+
+
+**0.0.4**
 
 [See changes](https://github.com/plauclair/PasswordReset/commit/fa9cdcbea7425c8efc8eb316573df89870f2c802)
 
