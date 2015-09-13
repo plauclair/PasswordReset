@@ -1,6 +1,6 @@
 <?php
 /**
- * Password Reser module template file
+ * Password Reset module template file
  *
  * Copy this file to your templates folder.
  */
